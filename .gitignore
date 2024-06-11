@@ -1,0 +1,14 @@
+# 忽略所有的 __pycache__ 目录（Python 编译缓存）
+__pycache__/
+
+# 忽略 Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 忽略 .ipynb
+# *.ipynb
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# 忽略环境配置文件
+.env
